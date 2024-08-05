@@ -1,0 +1,28 @@
+C:\Users\Willy\Desktop\InsuRecord\bin\Debug\net8.0\InsuRecord.exe
+C:\Users\Willy\Desktop\InsuRecord\bin\Debug\net8.0\InsuRecord.deps.json
+C:\Users\Willy\Desktop\InsuRecord\bin\Debug\net8.0\InsuRecord.runtimeconfig.json
+C:\Users\Willy\Desktop\InsuRecord\bin\Debug\net8.0\InsuRecord.dll
+C:\Users\Willy\Desktop\InsuRecord\bin\Debug\net8.0\InsuRecord.pdb
+C:\Users\Willy\Desktop\InsuRecord\obj\Debug\net8.0\InsuRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\Desktop\InsuRecord\obj\Debug\net8.0\InsuRecord.AssemblyInfoInputs.cache
+C:\Users\Willy\Desktop\InsuRecord\obj\Debug\net8.0\InsuRecord.AssemblyInfo.cs
+C:\Users\Willy\Desktop\InsuRecord\obj\Debug\net8.0\InsuRecord.csproj.CoreCompileInputs.cache
+C:\Users\Willy\Desktop\InsuRecord\obj\Debug\net8.0\InsuRecord.dll
+C:\Users\Willy\Desktop\InsuRecord\obj\Debug\net8.0\refint\InsuRecord.dll
+C:\Users\Willy\Desktop\InsuRecord\obj\Debug\net8.0\InsuRecord.pdb
+C:\Users\Willy\Desktop\InsuRecord\obj\Debug\net8.0\InsuRecord.genruntimeconfig.cache
+C:\Users\Willy\Desktop\InsuRecord\obj\Debug\net8.0\ref\InsuRecord.dll
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\bin\Debug\net8.0\InsuRecord.exe
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\bin\Debug\net8.0\InsuRecord.deps.json
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\bin\Debug\net8.0\InsuRecord.runtimeconfig.json
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\bin\Debug\net8.0\InsuRecord.dll
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\bin\Debug\net8.0\InsuRecord.pdb
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\obj\Debug\net8.0\InsuRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\obj\Debug\net8.0\InsuRecord.AssemblyInfoInputs.cache
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\obj\Debug\net8.0\InsuRecord.AssemblyInfo.cs
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\obj\Debug\net8.0\InsuRecord.csproj.CoreCompileInputs.cache
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\obj\Debug\net8.0\InsuRecord.dll
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\obj\Debug\net8.0\refint\InsuRecord.dll
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\obj\Debug\net8.0\InsuRecord.pdb
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\obj\Debug\net8.0\InsuRecord.genruntimeconfig.cache
+C:\Users\Willy\Desktop\‎\school\ITnetwork\programátor www aplikací v C# .NET\projekt ke zkoušce\InsuRecord\obj\Debug\net8.0\ref\InsuRecord.dll
